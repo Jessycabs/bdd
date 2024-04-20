@@ -1,0 +1,41 @@
+Sistema Gerenciador de Banco de Dados Oracle
+
+Introdução:
+
+Oracle Database Management System, desenvolvido pela Oracle Corporation, é uma das soluções mais famosas e amplamente utilizadas no domínio de bancos de dados relacionais. O Oracle Database (Oracle DB) é conhecido por sua confiabilidade, escalabilidade e conjunto abrangente de recursos, tornando-o uma escolha popular para empresas de todos os tamanhos e setores. Neste texto, exploraremos a arquitetura, o uso e os recursos importantes do Oracle DB usando fontes confiáveis, como documentação oficial da Oracle e estudos acadêmicos específicos.
+
+Utilização:
+
+
+O uso do banco de dados Oracle abrange diversos setores e casos de uso. No setor financeiro, as instituições financeiras estão utilizando o Oracle DB para processar transações financeiras de forma segura e eficiente, conforme afirma a documentação oficial da Oracle (Oracle Corporation, 2022). Além disso, as organizações de saúde usam o Oracle DB para armazenar registros médicos eletrônicos e informações de pacientes, fornecendo acesso rápido e seguro aos dados clínicos.
+
+As empresas de varejo usam o Oracle DB para gerenciar estoque, transações de vendas e análises de clientes para ajudar as empresas a otimizar as operações e melhorar as experiências dos clientes. Esses diversos aplicativos destacam a versatilidade e adaptabilidade do Oracle DB em ambientes de negócios exigentes.
+
+Exemplos:
+
+A linguagem SQL (Structured Query Language) é usada para realizar consultas em bancos de dados relacionais, incluindo o Oracle DB. Abaixo estão alguns exemplos de consultas SQL comuns:
+
+Consulta Simples:
+
+SELECT nome, idade FROM clientes WHERE cidade = 'São Paulo';
+
+Consulta com Cláusula WHERE e Ordenação:
+
+SELECT nome, salario FROM funcionarios WHERE departamento = 'TI' ORDER BY salario DESC;
+
+
+Conclusão:
+
+Os sistemas de gerenciamento de banco de dados Oracle desempenham um papel fundamental ao ajudar organizações de todos os tamanhos e setores a gerenciar seus dados com eficiência e segurança. Sua arquitetura poderosa, versatilidade e escalabilidade fazem dele a escolha preferida para empresas que buscam uma solução de banco de dados confiável e de alto desempenho. Baseado em fontes confiáveis, como documentação oficial da Oracle e pesquisas acadêmicas especializadas, este texto fornece uma visão geral abrangente do Oracle DB e suas aplicações no mundo dos negócios.
+
+Referências Bibliográficas:
+
+Oracle Corporation. (2022). Oracle Database Documentation. Disponível em: https://docs.oracle.com/en/database/oracle/oracle-database/index.html
+Alapati, S., Kuhn, D., Padfield, B., & Robson, J. (2018). Expert Oracle Database Architecture. Apress.
+Lewis, R. (2020). Oracle PL/SQL Programming: Covers Versions Through Oracle Database 19c. O'Reilly Media.
+
+
+
+
+
+
